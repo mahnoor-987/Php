@@ -5,7 +5,7 @@
 echo "Hello, World!";
 
 // Variables
-$name = "Amina";
+$name = "Maham";
 $age = 22;
 
 echo "<br>My name is $name and I am $age years old.";
